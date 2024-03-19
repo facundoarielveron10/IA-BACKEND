@@ -1,0 +1,17 @@
+{
+    "name": "ia-backend",
+    "version": "1.0.0",
+    "description": "IA - OpenAI - Probando la Inteligencia Artificial",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Facundo Ariel Veron",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "express": "^4.18.3",
+        "openai": "^4.29.2"
+    }
+}
